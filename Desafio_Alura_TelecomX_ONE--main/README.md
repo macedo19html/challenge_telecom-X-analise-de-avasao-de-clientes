@@ -72,8 +72,4 @@ Para executar o projeto, siga as etapas:
 
 ---
 
-## 👩‍💻 Desenvolvedora do Projeto
 
-**Nome:** Aline Lataro  
-**LinkedIn:** [linkedin.com/in/alinelataro](https://www.linkedin.com/in/aline-lataro)  
-**GitHub:** [github.com/AlineLataro](https://github.com/AlineLataro)
