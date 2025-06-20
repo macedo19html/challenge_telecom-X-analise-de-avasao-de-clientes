@@ -6,7 +6,6 @@
 - [Funcionalidades, Demonstrações e Insights](#funcionalidades-e-demonstrações)
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Desenvolvedora do Projeto](#desenvolvedora-do-projeto)
 
 ---
 
